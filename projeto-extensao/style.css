@@ -1,0 +1,13 @@
+html,
+body {
+  min-height: 100%;
+  user-select: none;
+  background-position: center bottom; 
+}
+
+body {
+    background-image: url(background-noturno.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
